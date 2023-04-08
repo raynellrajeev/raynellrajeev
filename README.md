@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @raynellrajeev .
 - 👀 I’m interested in Machine learning.
-- 🌱 I’m currently learning tensorflow.
 - 💞️ I’m looking to collaborate on projects related to machine learning.
 - 📫 gmail: raynellrajeev007@gmail.com  ig: @raynellrajeev
 <!---
