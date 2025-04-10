@@ -1,5 +1,5 @@
 -  Hi, I’m @raynellrajeev .
--  I’m a MERN stack developer, interested in DevOps and Machine Learning.
+-  I’m a MERN stack developer, interested in DevOps, CyberSecurity & Machine Learning.
 -  I’m looking to collaborate on projects related to development.
 -  gmail: raynellrajeev007@gmail.com  ig: @raynellrajeev
 <!---
