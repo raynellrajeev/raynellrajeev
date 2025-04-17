@@ -119,6 +119,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/raynellrajeev/raynellrajeev/output/snake.svg" alt="Snake animation" />
 
 ###
